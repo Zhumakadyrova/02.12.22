@@ -148,3 +148,6 @@ example-1{
 .card.card-horizonal .card-image {
   width: 50%;
 }
+.card:hover .face.face2 {
+  height: 60px;
+}
