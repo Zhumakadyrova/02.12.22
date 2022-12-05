@@ -151,3 +151,7 @@ example-1{
 .card:hover .face.face2 {
   height: 60px;
 }
+.row row-space{
+  display: flex;
+  justify-content: space-between;
+}
