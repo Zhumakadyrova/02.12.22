@@ -133,7 +133,7 @@ example-1{
   margin-bottom: 15px;
 }
 .card:hover {
-  transform: scale(1.05);
+  transform: scale(1.15);
 }
 .card .card-image {
   width: 100%;
