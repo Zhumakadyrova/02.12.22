@@ -122,11 +122,11 @@ example-1{
 }
 
 .card {
-  background-color: white;
-  border: 1px dashed rgb(228, 165, 154);
+  background-color: rgb(227, 245, 230);
+  border: 3.5px inset rgb(40, 120, 132);
   border-radius: 8px;
-  box-shadow: 10px 5px 10px 0 rgba(29, 37, 198, 0.603);
-  transform:matrix(5%);
+  box-shadow: 3px 5px 4px 0 rgba(29, 37, 198, 0.603);
+  transform: scale(55deg) translate(100% -100%);
   transition: all;
   transition-duration: 8ms;
 
