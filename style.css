@@ -155,3 +155,7 @@ example-1{
   display: flex;
   justify-content: space-between;
 }
+img .roze{
+  float: right;
+  margin: 50px;
+}
